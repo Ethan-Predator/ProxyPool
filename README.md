@@ -1,4 +1,4 @@
-# ProxyPool
+# ProxyPool (Reference and origin from https://github.com/Python3WebSpider/ProxyPool.git)
 
 ![build](https://github.com/Python3WebSpider/ProxyPool/workflows/build/badge.svg)
 ![deploy](https://github.com/Python3WebSpider/ProxyPool/workflows/deploy/badge.svg)
